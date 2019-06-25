@@ -29,7 +29,7 @@ I used a logistic regression, a random forest classifier, and xgboost to compare
 
 ## Running the Code
 
-Since this is all within ipython and jupyter notebooks, you can run imdb.ipynb and run each cell. You should end up with pandas dataframes and visualization charts of the data and coefficients and residuals by the end of the notebook.
+Since this is all within ipython and jupyter notebooks, you can run imdb.ipynb and run each cell. You should end up with pandas dataframes and visualization charts of the data and feature importances and by the end of the notebook.
 
 ### Prerequisites
 
